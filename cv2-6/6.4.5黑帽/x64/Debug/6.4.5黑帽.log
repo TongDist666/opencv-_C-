@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  6.4.5黑帽.cpp
+d:\c++code\cv2-6\6.4.5黑帽\6.4.5黑帽.cpp(78): warning C4715: “dst”: 不是所有的控件路径都返回值
+  6.4.5黑帽.vcxproj -> D:\C++code\cv2-6\x64\Debug\6.4.5黑帽.exe

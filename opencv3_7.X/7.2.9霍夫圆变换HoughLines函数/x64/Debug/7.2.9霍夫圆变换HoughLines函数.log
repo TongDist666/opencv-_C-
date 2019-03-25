@@ -1,0 +1,4 @@
+﻿D:\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(7.2.9霍夫圆变换HoughLines函数.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  7.2.9霍夫圆变换HoughCircles函数.cpp
+  7.2.9霍夫圆变换HoughLines函数.vcxproj -> D:\C++code\opencv3_7.X\x64\Debug\7.2.9霍夫圆变换HoughCircles函数.exe

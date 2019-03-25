@@ -1,0 +1,3 @@
+﻿  ConsoleApplication6.cpp
+d:\c++code\consoleapplication6\consoleapplication6.cpp(14): error C2664: “int printf(const char *const ,...)”: 无法将参数 1 从“int”转换为“const char *const ”
+  d:\c++code\consoleapplication6\consoleapplication6.cpp(14): note: 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换

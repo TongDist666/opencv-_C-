@@ -1,0 +1,3 @@
+﻿D:\VS\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(5.2.1感兴趣区域ROI.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  5.2初级图像混合.cpp
+  5.2.1感兴趣区域ROI.vcxproj -> D:\C++code\opencv3_5.X\x64\Debug\5.2初级图像混合.exe
